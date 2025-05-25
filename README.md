@@ -90,9 +90,8 @@ Below is the Entity-Relationship Diagram (ERD) representing the structure of the
 
 ## 👩‍💻 Author
 
-**Nitesh Badwaiya**  
-https://www.linkedin.com/in/nitesh-badwaiya/   
-
+**Gauri gunjan kanojia**  
+https://www.linkedin.com/in/gauri-gunjan-kanojia-95449331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 ## 📌 How to Use This Project
